@@ -1,4 +1,4 @@
-# Hi there, I'm Nikhhil! 👋
+# Hi there, I'm Nikhil! 👋
 
 Welcome to my GitHub profile!  
 I'm passionate about technology and love building projects that solve real-world problems.
